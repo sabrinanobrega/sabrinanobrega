@@ -3,7 +3,7 @@
 
 
 - 🔭Estudande/Sesi Senai
-- 🌱HTML 
+- 🌱 aprendendo HTML 
 - 📫contate me em @sabrina._nobrega
 - 😄Ela/Dela
 - ⚡estudante de programação
